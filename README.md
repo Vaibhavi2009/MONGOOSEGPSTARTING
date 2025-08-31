@@ -1,17 +1,11 @@
-# MongooseGPStarting 
-# MongooseGPStarting
+### Screenshot 1
+![Screenshot 1](images/2.3%20SC1.png)
 
-Starter MEAN-style Node/Express app with Mongoose integration, environment-based config, and EJS views.
+### Screenshot 2
+![Screenshot 2](images/2.3%20SC2.png)
 
-## Requirements
-- Node.js v18+
-- MongoDB running locally (or a MongoDB URI)
+### Screenshot 3
+![Screenshot 3](images/2.3%20SC3.png)
 
-## Getting Started
-
-```bash
-# install dependencies
-npm install
-
-# run development
-npm start
+### Screenshot 4
+![Screenshot 4](images/2.3%20SC4.png)
